@@ -1,6 +1,6 @@
 {
   "email-exists": {
-    "email_exists": false
+    "email_exists": true
   },
   "login": {
     "token": "TOKEN"
