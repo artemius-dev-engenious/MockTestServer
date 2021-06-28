@@ -4,5 +4,97 @@
   },
   "login": {
     "token": "TOKEN"
+  },
+  "user_authentication": {
+    "id": 0,
+    "training_feed": {
+      "recommended_today": {
+        "id": 0,
+        "title": "string",
+        "description": "string",
+        "duration": 0,
+        "equipement": "string",
+        "photo": "string",
+        "video": [
+          {
+            "id": 0,
+            "title": "string",
+            "is_rest": true,
+            "duration": 0,
+            "equipement": "string",
+            "photo": "string"
+          }
+        ]
+      },
+      "training_plan": {
+        "id": 0,
+        "goal": "string",
+        "habits": "string",
+        "total_weeks_number": 0,
+        "current_week_number": 0,
+        "coming_trainings": [
+          {
+            "id": 0,
+            "photo": "string",
+            "title": "string",
+            "date": "string",
+            "duration": 0
+          }
+        ]
+      }
+    },
+    "training_library": {
+      "your_program": [
+        {
+          "id": 0,
+          "title": "string",
+          "description": "string",
+          "duration": 0,
+          "equipement": "string",
+          "photo": "string",
+          "video": [
+            {
+              "id": 0,
+              "title": "string",
+              "is_rest": true,
+              "duration": 0,
+              "equipement": "string",
+              "photo": "string"
+            }
+          ]
+        }
+      ],
+      "trainings": [
+        {
+          "id": 0,
+          "title": "string",
+          "description": "string",
+          "duration": 0,
+          "equipement": "string",
+          "photo": "string",
+          "video": [
+            {
+              "id": 0,
+              "title": "string",
+              "is_rest": true,
+              "duration": 0,
+              "equipement": "string",
+              "photo": "string"
+            }
+          ]
+        }
+      ]
+    },
+    "weekly_statistics": {
+      "done_trainings": "string",
+      "total_trainings": 0,
+      "calories_burned": "string"
+    },
+    "user": {
+      "id": 0,
+      "name": "string",
+      "email": "string",
+      "userStatus": "created"
+    }
   }
 }
