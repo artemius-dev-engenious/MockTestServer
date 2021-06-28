@@ -10,11 +10,11 @@
     "training_feed": {
       "recommended_today": {
         "id": 0,
-        "title": "string",
-        "description": "string",
-        "duration": 0,
-        "equipement": "string",
-        "photo": "string",
+        "title": "Test Training",
+        "description": "Test",
+        "duration": 45,
+        "equipement": "no equipment",
+        "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg",
         "video": [
           {
             "id": 0,
@@ -30,15 +30,29 @@
         "id": 0,
         "goal": "string",
         "habits": "string",
-        "total_weeks_number": 0,
-        "current_week_number": 0,
+        "total_weeks_number": 5,
+        "current_week_number": 2,
         "coming_trainings": [
           {
             "id": 0,
             "photo": "string",
-            "title": "string",
-            "date": "string",
-            "duration": 0
+            "title": "Test Plan 0",
+            "date": "March, 22th",
+            "duration": 35
+          },
+          {
+            "id": 1,
+            "photo": "string",
+            "title": "Test Plan 1",
+            "date": "March, 24th",
+            "duration": 45
+          },
+          {
+            "id": 2,
+            "photo": "string",
+            "title": "Test Plan 2",
+            "date": "March, 26th",
+            "duration": 50
           }
         ]
       }
