@@ -46,6 +46,13 @@
             "title": "Test Plan 1",
             "date": "March, 24th",
             "duration": 45
+          },
+          {
+            "id": 2,
+            "photo": "https://images.pexels.com/photos/4384679/pexels-photo-4384679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "title": "Test Plan 2",
+            "date": "March, 26th",
+            "duration": 50
           }
         ]
       }
