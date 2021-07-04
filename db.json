@@ -28,31 +28,24 @@
       },
       "training_plan": {
         "id": 0,
-        "goal": "string",
-        "habits": "string",
+        "goal": "Get Fitter",
+        "habits": "Up to 30 minutes",
         "total_weeks_number": 5,
         "current_week_number": 2,
         "coming_trainings": [
           {
             "id": 0,
-            "photo": "string",
+            "photo": "https://images.pexels.com/photos/2294354/pexels-photo-2294354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
             "title": "Test Plan 0",
             "date": "March, 22th",
             "duration": 35
           },
           {
             "id": 1,
-            "photo": "string",
+            "photo": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
             "title": "Test Plan 1",
             "date": "March, 24th",
             "duration": 45
-          },
-          {
-            "id": 2,
-            "photo": "string",
-            "title": "Test Plan 2",
-            "date": "March, 26th",
-            "duration": 50
           }
         ]
       }
