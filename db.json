@@ -159,6 +159,6 @@
       "userStatus": "created"
     }
   },
-  video: [ { "id": 0, "description": "string", "video": "string"}
+  "video": [ { "id": 0, "description": "string", "video": "string"}
     ]
 }
