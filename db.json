@@ -122,6 +122,70 @@
               "duration": 20,
               "equipement": "string",
               "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+          "id": 0,
+          "title": "string",
+          "description": "string",
+          "duration": 0,
+          "equipement": "string",
+          "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg",
+          "video": [
+            {
+              "id": 0,
+              "title": "Mountatin Climbers",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 1,
+              "title": "Bodyweight Squats",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Crossback Lunges",
+              "is_rest": true,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 3,
+              "title": "Full Sit-Ups",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 4,
+              "title": "Mountain Climbers",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 5,
+              "title": "Press-Ups",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 6,
+              "title": "Lateral Jump Burpees",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
             }
           ]
         }
