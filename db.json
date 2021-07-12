@@ -1,235 +1,170 @@
 {
-    "email-exists": {
-        "email_exists": false
-    },
-    "login": {
-        "token": "TOKEN"
-    },
-    "user_authentication": {
+  "email-exists": {
+    "email_exists": true
+  },
+  "login": {
+    "token": "TOKEN"
+  },
+  "user_authentication": {
+    "id": 0,
+    "training_feed": {
+      "recommended_today": {
         "id": 0,
-        "training_feed": {
-            "recommended_today": {
-                "id": 0,
-                "title": "Test Training",
-                "description": "Test",
-                "duration": 45,
-                "equipement": "no equipment",
-                "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg",
-                "video": [
-                    {
-                        "id": 0,
-                        "title": "string",
-                        "is_rest": true,
-                        "duration": 0,
-                        "equipement": "string",
-                        "photo": "string"
-                    }
-                ]
-            },
-            "training_plan": {
-                "id": 0,
-                "goal": "Get Fitter",
-                "habits": "Up to 30 minutes",
-                "total_weeks_number": 5,
-                "current_week_number": 2,
-                "coming_trainings": [
-                    {
-                        "id": 0,
-                        "photo": "https://images.pexels.com/photos/2294354/pexels-photo-2294354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-                        "title": "Test Plan 0",
-                        "date": "March, 22th",
-                        "duration": 35
-                    },
-                    {
-                        "id": 1,
-                        "photo": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-                        "title": "Test Plan 1",
-                        "date": "March, 24th",
-                        "duration": 45
-                    },
-                    {
-                        "id": 2,
-                        "photo": "https://images.pexels.com/photos/4384679/pexels-photo-4384679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-                        "title": "Test Plan 2",
-                        "date": "March, 26th",
-                        "duration": 50
-                    }
-                ]
-            }
-        },
-        "training_library": {
-            "your_program": [
-                {
-                    "id": 0,
-                    "title": "string",
-                    "description": "string",
-                    "duration": 0,
-                    "equipement": "string",
-                    "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg",
-                    "video": [
-                        {
-                            "id": 0,
-                            "title": "Mountatin Climbers",
-                            "is_rest": false,
-                            "duration": 20,
-                            "equipement": "string",
-                            "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
-                        },
-                        {
-                            "id": 1,
-                            "title": "Bodyweight Squats",
-                            "is_rest": false,
-                            "duration": 20,
-                            "equipement": "string",
-                            "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
-                        },
-                        {
-                            "id": 2,
-                            "title": "Crossback Lunges",
-                            "is_rest": true,
-                            "duration": 20,
-                            "equipement": "string",
-                            "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
-                        },
-                        {
-                            "id": 3,
-                            "title": "Full Sit-Ups",
-                            "is_rest": false,
-                            "duration": 20,
-                            "equipement": "string",
-                            "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
-                        },
-                        {
-                            "id": 4,
-                            "title": "Mountain Climbers",
-                            "is_rest": false,
-                            "duration": 20,
-                            "equipement": "string",
-                            "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
-                        },
-                        {
-                            "id": 5,
-                            "title": "Press-Ups",
-                            "is_rest": false,
-                            "duration": 20,
-                            "equipement": "string",
-                            "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
-                        },
-                        {
-                            "id": 6,
-                            "title": "Lateral Jump Burpees",
-                            "is_rest": false,
-                            "duration": 20,
-                            "equipement": "string",
-                            "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
-                        }
-                    ]
-                },
-                {
-                    "id": 1,
-                    "title": "string",
-                    "description": "string",
-                    "duration": 0,
-                    "equipement": "string",
-                    "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg",
-                    "video": [
-                        {
-                            "id": 0,
-                            "title": "Mountatin Climbers",
-                            "is_rest": false,
-                            "duration": 20,
-                            "equipement": "string",
-                            "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
-                        },
-                        {
-                            "id": 1,
-                            "title": "Bodyweight Squats",
-                            "is_rest": false,
-                            "duration": 20,
-                            "equipement": "string",
-                            "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
-                        },
-                        {
-                            "id": 2,
-                            "title": "Crossback Lunges",
-                            "is_rest": true,
-                            "duration": 20,
-                            "equipement": "string",
-                            "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
-                        },
-                        {
-                            "id": 3,
-                            "title": "Full Sit-Ups",
-                            "is_rest": false,
-                            "duration": 20,
-                            "equipement": "string",
-                            "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
-                        },
-                        {
-                            "id": 4,
-                            "title": "Mountain Climbers",
-                            "is_rest": false,
-                            "duration": 20,
-                            "equipement": "string",
-                            "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
-                        },
-                        {
-                            "id": 5,
-                            "title": "Press-Ups",
-                            "is_rest": false,
-                            "duration": 20,
-                            "equipement": "string",
-                            "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
-                        },
-                        {
-                            "id": 6,
-                            "title": "Lateral Jump Burpees",
-                            "is_rest": false,
-                            "duration": 20,
-                            "equipement": "string",
-                            "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
-                        }
-                    ]
-                }
-            ],
-            "trainings": [
-                {
-                    "id": 0,
-                    "title": "string",
-                    "description": "string",
-                    "duration": 0,
-                    "equipement": "string",
-                    "photo": "string",
-                    "video": [
-                        {
-                            "id": 0,
-                            "title": "string",
-                            "is_rest": true,
-                            "duration": 0,
-                            "equipement": "string",
-                            "photo": "string"
-                        }
-                    ]
-                }
-            ]
-        },
-        "weekly_statistics": {
-            "done_trainings": "string",
-            "total_trainings": 0,
-            "calories_burned": "string"
-        },
-        "user": {
+        "title": "Test Training",
+        "description": "Test",
+        "duration": 45,
+        "equipement": "no equipment",
+        "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg",
+        "video": [
+          {
             "id": 0,
-            "name": "string",
-            "email": "string",
-            "userStatus": "created"
-        }
+            "title": "string",
+            "is_rest": true,
+            "duration": 0,
+            "equipement": "string",
+            "photo": "string"
+          }
+        ]
+      },
+      "training_plan": {
+        "id": 0,
+        "goal": "Get Fitter",
+        "habits": "Up to 30 minutes",
+        "total_weeks_number": 5,
+        "current_week_number": 2,
+        "coming_trainings": [
+          {
+            "id": 0,
+            "photo": "https://images.pexels.com/photos/2294354/pexels-photo-2294354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "title": "Test Plan 0",
+            "date": "March, 22th",
+            "duration": 35
+          },
+          {
+            "id": 1,
+            "photo": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "title": "Test Plan 1",
+            "date": "March, 24th",
+            "duration": 45
+          },
+          {
+            "id": 2,
+            "photo": "https://images.pexels.com/photos/4384679/pexels-photo-4384679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "title": "Test Plan 2",
+            "date": "March, 26th",
+            "duration": 50
+          }
+        ]
+      }
     },
-    "video": [
+    "training_library": {
+      "your_program": [
         {
-            "id": 0,
-            "description": "string",
-            "video": "string"
+          "id": 0,
+          "title": "Upper-Body Hardcore",
+          "description": "The way this programme has been designed – with two sessions a week that work your chest and back directly, and two that work your arms both directly and indirectly – will mean you add significant muscle mass across your torso, while the high-intensity weights workouts will also strip away excess body fat. ",
+          "duration": 32,
+          "equipement": "no equipment",
+          "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg",
+          "video": [
+            {
+              "id": 0,
+              "title": "Mountatin Climbers",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 1,
+              "title": "Bodyweight Squats",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Crossback Lunges",
+              "is_rest": true,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 3,
+              "title": "Full Sit-Ups",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 4,
+              "title": "Mountain Climbers",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 5,
+              "title": "Press-Ups",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 6,
+              "title": "Lateral Jump Burpees",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            }
+          ]
         }
-    ]
+        
+      ],
+      "trainings": [
+        {
+          "id": 0,
+          "title": "Upper-Body Hardcore",
+          "description": "The way this programme has been designed – with two sessions a week that work your chest and back directly, and two that work your arms both directly and indirectly – will mean you add significant muscle mass across your torso, while the high-intensity weights workouts will also strip away excess body fat. ",
+          "duration": 32,
+          "equipement": "no equipment",
+          "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg",
+          "video": [
+            {
+              "id": 0,
+              "title": "string",
+              "is_rest": true,
+              "duration": 0,
+              "equipement": "string",
+              "photo": "string"
+            }
+          ]
+        }
+      ]
+    },
+    "weekly_statistics": {
+      "done_trainings": "string",
+      "total_trainings": 0,
+      "calories_burned": "string"
+    },
+    "user": {
+      "id": 0,
+      "name": "string",
+      "email": "string",
+      "userStatus": "created"
+    }
+  },
+  "video": [
+    {
+      "id": 0,
+      "description": "string",
+      "video": "string"
+    }
+  ]
 }
