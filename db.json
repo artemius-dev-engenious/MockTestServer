@@ -124,8 +124,73 @@
               "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
             }
           ]
+        },
+        {
+          "id": 1,
+          "title": "Upper-Body Hardcore",
+          "description": "The way this programme has been designed – with two sessions a week that work your chest and back directly, and two that work your arms both directly and indirectly – will mean you add significant muscle mass across your torso, while the high-intensity weights workouts will also strip away excess body fat. ",
+          "duration": 32,
+          "equipement": "no equipment",
+          "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg",
+          "video": [
+            {
+              "id": 0,
+              "title": "Mountatin Climbers",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 1,
+              "title": "Bodyweight Squats",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Crossback Lunges",
+              "is_rest": true,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 3,
+              "title": "Full Sit-Ups",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 4,
+              "title": "Mountain Climbers",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 5,
+              "title": "Press-Ups",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            },
+            {
+              "id": 6,
+              "title": "Lateral Jump Burpees",
+              "is_rest": false,
+              "duration": 20,
+              "equipement": "string",
+              "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
+            }
+          ]
         }
-        
       ],
       "trainings": [
         {
@@ -159,12 +224,5 @@
       "email": "string",
       "userStatus": "created"
     }
-  },
-  "video": [
-    {
-      "id": 0,
-      "description": "string",
-      "video": "string"
-    }
-  ]
+  }
 }
