@@ -1,6 +1,6 @@
 {
   "email-exists": {
-    "email_exists": false
+    "email_exists": true
   },
   "login": {
     "token": "TOKEN"
@@ -36,21 +36,21 @@
           {
             "id": 0,
             "photo": "https://images.pexels.com/photos/2294354/pexels-photo-2294354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-            "title": "Test Plan 0",
+            "title": "Upper-Body Hardcore",
             "date": "March, 22th",
             "duration": 35
           },
           {
             "id": 1,
             "photo": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-            "title": "Test Plan 1",
+            "title": "Strength Boost",
             "date": "March, 24th",
             "duration": 45
           },
           {
             "id": 2,
             "photo": "https://images.pexels.com/photos/4384679/pexels-photo-4384679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-            "title": "Test Plan 2",
+            "title": "Back & Shoulders",
             "date": "March, 26th",
             "duration": 50
           }
@@ -65,7 +65,7 @@
           "description": "The way this programme has been designed – with two sessions a week that work your chest and back directly, and two that work your arms both directly and indirectly – will mean you add significant muscle mass across your torso, while the high-intensity weights workouts will also strip away excess body fat. ",
           "duration": 32,
           "equipement": "no equipment",
-          "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg",
+          "photo": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
           "video": [
             {
               "id": 0,
@@ -86,21 +86,13 @@
             {
               "id": 2,
               "title": "Crossback Lunges",
-              "is_rest": false,
+              "is_rest": true,
               "duration": 20,
               "equipement": "string",
               "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
             },
             {
               "id": 3,
-              "title": "",
-              "is_rest": true,
-              "duration": 40,
-              "equipement": "string",
-              "photo": ""
-            },
-            {
-              "id": 4,
               "title": "Full Sit-Ups",
               "is_rest": false,
               "duration": 20,
@@ -108,7 +100,7 @@
               "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
             },
             {
-              "id": 5,
+              "id": 4,
               "title": "Mountain Climbers",
               "is_rest": false,
               "duration": 20,
@@ -116,7 +108,7 @@
               "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
             },
             {
-              "id": 6,
+              "id": 5,
               "title": "Press-Ups",
               "is_rest": false,
               "duration": 20,
@@ -124,7 +116,7 @@
               "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
             },
             {
-              "id": 7,
+              "id": 6,
               "title": "Lateral Jump Burpees",
               "is_rest": false,
               "duration": 20,
@@ -139,7 +131,7 @@
           "description": "The way this programme has been designed – with two sessions a week that work your chest and back directly, and two that work your arms both directly and indirectly – will mean you add significant muscle mass across your torso, while the high-intensity weights workouts will also strip away excess body fat. ",
           "duration": 32,
           "equipement": "no equipment",
-          "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg",
+          "photo": "https://images.pexels.com/photos/936094/pexels-photo-936094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
           "video": [
             {
               "id": 0,
@@ -232,5 +224,12 @@
       "email": "string",
       "userStatus": "created"
     }
-  }
+  },
+  "video": [
+    {
+      "id": 0,
+      "description": "string",
+      "video": "string"
+    }
+  ]
 }
