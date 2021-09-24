@@ -86,7 +86,7 @@
             {
               "id": 2,
               "title": "Crossback Lunges",
-              "is_rest": true,
+              "is_rest": false,
               "duration": 20,
               "equipement": "string",
               "photo": "https://cdn.shopify.com/s/files/1/0425/4210/4739/articles/Crossback_Lunge_BW_2400x.jpg?v=1595382285"
@@ -160,7 +160,7 @@
             {
               "id": 2,
               "title": "Crossback Lunges",
-              "is_rest": true,
+              "is_rest": false,
               "duration": 20,
               "equipement": "string",
               "photo": "https://cdn.shopify.com/s/files/1/0425/4210/4739/articles/Crossback_Lunge_BW_2400x.jpg?v=1595382285"
