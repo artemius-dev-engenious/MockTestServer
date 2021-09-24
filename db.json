@@ -93,6 +93,14 @@
             },
             {
               "id": 3,
+              "title": "",
+              "is_rest": true,
+              "duration": 40,
+              "equipement": "string",
+              "photo": ""
+            },
+            {
+              "id": 4,
               "title": "Full Sit-Ups",
               "is_rest": false,
               "duration": 20,
@@ -100,7 +108,7 @@
               "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
             },
             {
-              "id": 4,
+              "id": 5,
               "title": "Mountain Climbers",
               "is_rest": false,
               "duration": 20,
@@ -108,7 +116,7 @@
               "photo": "https://assets.sweat.com/shopify_articles/images/000/002/949/original/X_Mountain_Climberad1318805679a1da665db312a6369c74.png?1586318727"
             },
             {
-              "id": 5,
+              "id": 6,
               "title": "Press-Ups",
               "is_rest": false,
               "duration": 20,
@@ -116,7 +124,7 @@
               "photo": "http://s3.amazonaws.com/prod.skimble/assets/842756/image_iphone.jpg"
             },
             {
-              "id": 6,
+              "id": 7,
               "title": "Lateral Jump Burpees",
               "is_rest": false,
               "duration": 20,
@@ -159,6 +167,14 @@
             },
             {
               "id": 3,
+              "title": "",
+              "is_rest": true,
+              "duration": 40,
+              "equipement": "string",
+              "photo": ""
+            },
+            {
+              "id": 4,
               "title": "Full Sit-Ups",
               "is_rest": false,
               "duration": 20,
@@ -166,7 +182,7 @@
               "photo": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2021/04/Whats-the-Best-Workout-Split.jpg"
             },
             {
-              "id": 4,
+              "id": 5,
               "title": "Mountain Climbers",
               "is_rest": false,
               "duration": 20,
@@ -174,7 +190,7 @@
               "photo": "https://assets.sweat.com/shopify_articles/images/000/002/949/original/X_Mountain_Climberad1318805679a1da665db312a6369c74.png?1586318727"
             },
             {
-              "id": 5,
+              "id": 6,
               "title": "Press-Ups",
               "is_rest": false,
               "duration": 20,
@@ -182,7 +198,7 @@
               "photo": "http://s3.amazonaws.com/prod.skimble/assets/842756/image_iphone.jpg"
             },
             {
-              "id": 6,
+              "id": 7,
               "title": "Lateral Jump Burpees",
               "is_rest": false,
               "duration": 20,
